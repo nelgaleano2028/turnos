@@ -1,0 +1,1 @@
+<?phprequire_once('class_novedades.php');$obj= new novedades();$lista=$obj->listar_novedades();	$html="";	$html.= "<option value='0'>Seleccione una Ausencia...</option>";	for($i=0;$i<count($lista);$i++){				$html.= "<option value=".$lista[$i]['codigo'].">".$lista[$i]['nombre']."</option>";	}		echo $html;?>

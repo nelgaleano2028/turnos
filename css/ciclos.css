@@ -1,0 +1,170 @@
+#header{
+width:80%;
+float:left;
+background-color:transparent;
+padding:5px;
+ margin-left: 15px;
+}
+
+#header div{
+	 display:inline-block;
+	 margin-left:10px;
+	
+}
+
+#crear{
+	 width:45px;
+	 height: 45px;
+	 }
+
+#editar{
+	 width:45px;
+	 height: 45px;
+}
+
+#eliminar{
+	 width:45px;
+	 height: 45px;
+}
+#correo{
+	 width:45px;
+	 height: 45px;
+}
+
+#imprimir{
+	 width:45px;
+	 height: 45px;
+}
+
+#contenido{
+width:100%;
+float:left;
+}
+
+#contenido .tabla{
+padding-top:80px;
+}
+
+#contenido .input{
+	width:70%;
+}
+
+#contenido th{
+	background-color: rgb(41, 76, 139);
+	color:#fff;
+}
+
+#contenido  .odd {
+    background-color: #FFF;
+}
+
+#contenido  tr,#contenido td, #contenido th{
+	border:	2px solid rgb(41, 76, 139) !important;
+}
+
+#contenido #ciclos  tr.si{
+	cursor:pointer;
+}
+
+#contenido #ciclos  tr.si:hover{
+	background: rgb(175, 203, 238);
+}
+
+.selecionar {
+	background:rgb(51, 113, 190) !important;
+	color:#fff  !important;
+}
+
+.validar .mensajes_info{
+	color:#fff !important; 
+	background: rgb(34, 109, 243);
+	width: 60%;
+	margin-top: 3%; 
+	font-weight: bold;
+	text-align:center;
+	padding: 5px;
+}
+
+.validar .mensajes_error{
+	color:#fff !important;
+	background: rgb(226, 27, 75);
+	width: 60%;
+	margin-top: 3%; 
+	font-weight: bold;
+	text-align:center;
+	padding: 5px;
+}
+
+.validar .mensajes_success{
+	color:#fff !important;
+	background: rgb(14, 173, 78);
+	width: 60%;
+	text-align:center;
+	font-weight: bold;
+	margin-top: 3%; 
+	padding: 5px;
+	
+}
+
+.mensajes_error_correo{
+	color:#fff !important;
+	background: rgb(226, 27, 75);
+	width: 60%;
+	
+	font-weight: bold;
+	
+	
+}
+
+.mensajes_success_correo{
+	color:#fff !important;
+	background: rgb(14, 173, 78);
+	width: 60%;
+	
+	font-weight: bold;
+	
+	
+
+}
+
+.mensajes_info_correo{
+	color:#fff !important; 
+	background: rgb(34, 109, 243);
+	width: 60%;
+	
+	font-weight: bold;
+	
+}
+
+.tabla input[type="text"]{
+	height: 15px !important;
+}
+
+.tooltip-inner {
+	background-color: rgb(41, 76, 139) !important;
+	
+}
+.tooltip.bottom .tooltip-arrow {
+    border-bottom-color: rgb(41, 76, 139) !important;
+}
+
+.modal2{
+position: fixed;
+top: 5%;
+left: 50%;
+z-index: 105000;
+margin-left: -30%;
+background-color: #fff;
+border: 1px solid #999;
+border: 1px solid rgba(0,0,0,0.3);
+-webkit-border-radius: 6px;
+-moz-border-radius: 6px;
+border-radius: 6px;
+outline: 0;
+-webkit-box-shadow: 0 3px 7px rgba(0,0,0,0.3);
+-moz-box-shadow: 0 3px 7px rgba(0,0,0,0.3);
+box-shadow: 0 3px 7px rgba(0,0,0,0.3);
+-webkit-background-clip: padding-box;
+-moz-background-clip: padding-box;
+background-clip: padding-box;
+}

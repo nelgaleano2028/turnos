@@ -1,0 +1,45 @@
+.modal2{
+position: fixed;
+top: 5%;
+left: 50%;
+z-index: 105000;
+margin-left: -30%;
+background-color: #fff;
+border: 1px solid #999;
+border: 1px solid rgba(0,0,0,0.3);
+-webkit-border-radius: 6px;
+-moz-border-radius: 6px;
+border-radius: 6px;
+outline: 0;
+-webkit-box-shadow: 0 3px 7px rgba(0,0,0,0.3);
+-moz-box-shadow: 0 3px 7px rgba(0,0,0,0.3);
+box-shadow: 0 3px 7px rgba(0,0,0,0.3);
+-webkit-background-clip: padding-box;
+-moz-background-clip: padding-box;
+background-clip: padding-box;
+}
+
+.validar{
+	text-align: center;
+	margin-top: 4%;
+}
+.validar .mensajes_error{
+	color:#fff !important;
+	background: rgb(226, 27, 75);
+	width: 60%;
+	margin-top: 3%; 
+	font-weight: bold;
+	text-align:center;
+	padding: 5px;
+}
+
+.validar .mensajes_success{
+	color:#fff !important;
+	background: rgb(14, 173, 78);
+	width: 60%;
+	text-align:center;
+	font-weight: bold;
+	margin-top: 3%; 
+	padding: 5px;
+	
+}

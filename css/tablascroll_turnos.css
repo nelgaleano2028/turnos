@@ -1,0 +1,21 @@
+.tableone { width:620px; border-collapse:separate; margin:0 auto; border-radius:4px !important; behavior: url(../../css/PIE.htc) !important;}
+.tabletwo {width:606px; border-collapse:collapse; float:left;}
+.th1 {width:30%;}
+.th2 {width:30%;}
+.th3 {width:30%;}
+.th4 {width:30%;}
+.th5 {width:30%;}
+
+.td1 {width:26%;}
+.td2 {width:26%;}
+.td3 {width:26.3%;}
+.td4 {width:30%;}
+.td5 {width:26%;}
+
+
+
+.innerb {max-height:30em; overflow-y:scroll; overflow-x:hidden;}
+.table-bordered{ 
+	border: 1px solid rgb(41, 76, 139) !important;
+	
+}

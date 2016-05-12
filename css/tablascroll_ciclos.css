@@ -1,0 +1,18 @@
+.tableone { width:85%; border-collapse:separate; margin:0 auto; border-radius:4px !important; behavior: url(../../css/PIE.htc) !important;}
+.tabletwo {width:100%; border-collapse:collapse;}
+.th1 {width:15%;}
+.th2 {width:10%;}
+.th3 {width:3%;}
+.th4 {width:10%;}
+.th5 {width:20%;}
+
+
+.td1 {width:20%;}
+.td2 {width:13%;}
+.td3 {width:4%;}
+.td4 {width:13%;}
+.td5 {width:30%;}
+
+
+
+.innerb {max-height:30em; overflow-y:scroll;}

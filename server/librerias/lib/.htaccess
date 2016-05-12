@@ -1,0 +1,4 @@
+#deny all access
+deny from all
+
+ErrorDocument 403 /monitores/error/

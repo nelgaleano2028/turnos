@@ -1,0 +1,26 @@
+.tableone { width:1150px; border-collapse:separate; margin:0 auto; border-radius:4px !important; behavior: url(../../css/PIE.htc) !important;}
+.tabletwo {width:1150px; border-collapse:collapse;}
+.th1 {width:140px;}
+.th2 {width:130px;}
+.th3 {width:90px;}
+.th4 {width:130px;}
+.th5 {width:110px;}
+.th6 {width:90px;}
+.th7 {width:90px;}
+.th8 {width:140px;}
+.th9 {width:130px;}
+
+
+.td1 {width:140px;}
+.td2 {width:130px;}
+.td3 {width:90px;}
+.td4 {width:130px;}
+.td5 {width:110px;}
+.td6 {width:90px;}
+.td7 {width:90px;}
+.td8 {width:140px;}
+.td9 {width:110px;}
+
+
+
+.innerb {max-height:25em; overflow-y:scroll;}
